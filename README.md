@@ -57,4 +57,4 @@ open up localhost:
 - Pinecone
 
 
-
+216961644962.dkr.ecr.eu-north-1.amazonaws.com/medicalbot
